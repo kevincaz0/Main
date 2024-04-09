@@ -24,6 +24,7 @@ body {
     padding-right:10px;
 
 }
+
 .rand1{
   padding: 10px;
   margin:15px;
@@ -51,10 +52,14 @@ body {
 }
 .candy{
   text-align: center;
+  font-size: 25px;
+  margin:10px;
+  font-family: 'Cabin', sans-serif;
 }
 .tit{
   font-size: 25px;
   margin:10px;
+  font-family: 'Cabin', sans-serif;
 }
 .title{
   text-align: center;
@@ -73,9 +78,11 @@ body {
 
 }
 .imgs{
-  height: 425px;
-  width:425px;
+  height: 410px;
+  width:410px;
   border:3.4px black solid;
+  border-radius:15px;
+  padding:10px
   
 }
 .mid1{
